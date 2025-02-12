@@ -1,0 +1,19 @@
+.container{
+    width: max-content;
+    height: max-content;
+    padding: 20px;
+    margin-left: 25%;
+}
+#RegistrationFom{
+    border-style: dashed;
+    background-color: rgb(243, 239, 234);
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.form-group{
+
+    padding: 10px;
+}

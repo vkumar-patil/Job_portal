@@ -1,0 +1,26 @@
+.job-listing {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .job-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-card h3 {
+    margin-bottom: 10px;
+  }
+  
+  .job-card p {
+    margin: 5px 0;
+  }
+  
+  .job-card strong {
+    font-weight: bold;
+  }
+  

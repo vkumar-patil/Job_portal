@@ -1,0 +1,14 @@
+.loginheding{
+font-size: larger;
+    color: blue;
+
+}
+    
+
+.container{
+    background-color: rgb(240, 243, 245);
+    width: max-content;
+    margin-left: 40%;
+    text-align: center;
+    border-style: dashed;
+}
